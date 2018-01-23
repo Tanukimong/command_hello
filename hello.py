@@ -1,5 +1,7 @@
 //For command lin git tutorial
-//Local repository modification
+//First : Local repository modification
+//Second : Github modification
+>>>>>>> origin/master
 print("Hello World!")
 
 print("Tell your world")
